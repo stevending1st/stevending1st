@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 👏大家好！
+- 👏Hello， World！
+- 👏みなさん、こんにちは。
+
 <!--
 **stevending1st/stevending1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
